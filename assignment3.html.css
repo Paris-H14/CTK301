@@ -1,0 +1,40 @@
+/* This is a stylesheet for assignment3.html*/
+
+p{
+    color:pink;
+    background-color:black;
+}
+
+h1{
+    color: #CC0000;
+    background-color: aquamarine;
+}
+
+.yellowmellow{
+    color: darkgoldenrod;
+
+}
+
+a:link{
+    color:#CC0000;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: yellow;
+}
+
+.spannywanny{
+    color:rgb(21, 182, 21);
+    background-color:black;
+}
+
+#div1{
+    background-color: lightpink;
+}
+
+
+
