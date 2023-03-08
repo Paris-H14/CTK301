@@ -1,0 +1,76 @@
+/* This is a stylesheet for assignment4.html*/
+
+body{
+    font: sans-serif;
+    background-color: bisque;
+    background-image: url(picture.jpg);
+}
+
+p{
+    color:pink;
+    background-color:black;
+}
+
+.centerparagraph{
+    text-align: center;
+}
+
+h1{
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+
+h2{
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.imgborder{
+    border: black 25px solid;
+    padding: 20px;
+    background-color: yellow;
+}
+
+h3{
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+
+h4{
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.yellowmellow{
+    color: darkgoldenrod;
+    text-align: justify;
+
+}
+
+a:link{
+    color:#CC0000;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: yellow;
+}
+
+.spannywanny{
+    color:rgb(21, 182, 21);
+    background-color:black;
+}
+
+#div1{
+    background-color: lightslategray;
+}
+
+
+
